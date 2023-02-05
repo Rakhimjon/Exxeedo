@@ -39,5 +39,9 @@ Exxeedo is a marketplace app where users can send their used products. Create ac
       -  user can watch other products by scrolling down, just as insta reels 
       -  who ever want to work on it, feel free to contact  
 
+## to add your work:
+  -  create a pull request using different branch, explaining the work you did ,
+  -  would preffer to attach a screenshot of the simulator as well 
+  -  your code will be reviewed and be pushed to the App branch.
   
 ## the app will be live on the appstore when gets completed 
