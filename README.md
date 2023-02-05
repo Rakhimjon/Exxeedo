@@ -38,3 +38,6 @@ Exxeedo is a marketplace app where users can send their used products. Create ac
       -  user can see the products description using the i button on the top corner or sliding to the left 
       -  user can watch other products by scrolling down, just as insta reels 
       -  who ever want to work on it, feel free to contact  
+
+  
+## the app will be live on the appstore when gets completed 
